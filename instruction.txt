@@ -1,0 +1,88 @@
+React day 2
+
+react frontend  ka part he jisye facebook ne bnaya hain
+
+react main agar kam karna he to node js install hona jaruri hain
+
+npm tool
+
+npm = node package manager
+
+npm install -g create-react-app
+
+we are going to create out first react project
+
+npx = node package execute
+
+window + R = run
+
+dir = directory (folders)
+
+npx create-react-app <projectName>
+
+npx create-react-app amazon
+
+cd = change directory
+
+http://hostname:portnumber/
+http://localhost:3000/
+
+hum port number ko change kar skte hain
+
+"start": "react-scripts start" ye wo command he jo npm start karwati hain
+
+jese agar hum npm start likhte he wo internally ye command apna kam karti hain
+
+agar hum npm build likkhtehe to "build": "react-scripts build" yeh command run hogi
+
+npm start -> "react-scripts start"
+
+jese npm start he wese npm build he npm test he npm eject bhi hote he aage hum janyege ye kya hote hain
+
+react ke project ko shut down kaise kar skte hain ----
+terminal pr ctrl c press kijiye
+ctrl + c = close
+
+portnumber ko change karne ke liye package.json me jana he
+
+har ek function ka kam hota he return me kuch dena every function return something
+
+
+React ki file me sbse upr import area hota he
+
+bich me function area hota hain
+
+fir niche bad me us function ko export kar diya jata hain
+//import area
+//function defination
+//function export
+
+function export ki help se hum function ki calling khi bhi karwa skte hain
+
+every function return something
+example----
+function sum(x,y){
+return x + y
+}
+sum(10,20)
+
+react ke andar bar bar page ko refresh karne ki jarurat nahi hoti hain (React js supporting Hotreloading/Auto refresh)
+
+./ = current directory
+
+svg is a image 
+ 
+svg = scalable vector graphic
+
+img ek singular tag hota hain
+
+spa = single page application
+
+index.html weh single  page hota hain
+
+kon si chiye kha export ho rhi he ye hum aage padhyege
+
+
+
+
+
